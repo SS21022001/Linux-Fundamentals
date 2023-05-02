@@ -1,0 +1,76 @@
+Welcome to the second part of the reworked "Linux Fundamentals" series. We'll be applying our knowledge from the first installment in this series, so I highly recommend you completing that room before proceeding further.
+
+In part 2, we'll be ditching the in-browser functionality and help you get started in what is a fundamental skill in being able to login to and control the terminals of remote machines. Not only this, but the room will also have you:
+
+Unlocking the potential of your first few commands by introducing you to using flags and arguments
+Advancing your knowledge of the filesystem to perform some more useful commands such as copying and moving files
+Introducing you to the access mechanisms in place to keep files and folders secure and how to identify the things that our current user has access too
+Running your first few scripts and executables!
+
+Task-1
+
+Let's proceed!
+> No answer needed
+
+Task-2
+
+I've logged into the Linux Fundamentals Part 2 machine using SSH!
+> No answer needed
+
+Task-3
+
+Explore the manual page of the ls command
+> No answer needed
+What directional arrow key would we use to navigate down the manual page?
+> down
+What flag would we use to display the output in a "human-readable" way?
+> -h
+
+Task-4
+
+How would you create the file named "newnote"?
+> touch newnote
+On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory?
+> ASCII text
+How would we move the file "myfile" to the directory "myfolder" 
+> mv myfile myfolder
+What are the contents of this file?
+> THM{FILESYSTEM}
+Continue to apply your knowledge and practice the commands from this task.
+> No answer needed
+
+Task-5
+
+On the deployable machine, who is the owner of "important"?
+> user2
+What would the command be to switch to the user "user2"?
+> su user2
+Now switch to this user "user2" using the password "user2"
+> No answer needed
+Output the contents of "important", what is the flag?
+> THM{SU_USER2}
+
+Task-6
+
+Read me!
+> No answer needed
+What is the directory path that would we expect logs to be stored in?
+> /var/log
+What root directory is similar to how RAM on a computer works?
+> /tmp
+Name the home directory of the root user 
+> /root
+Now apply your learning and navigate through these directories on the deployed Linux machine.
+> No answer needed
+
+Task-7
+
+Proceed to the next task to continue your learning
+> No answer needed
+
+Task-8
+
+Terminate the machine from task 2!
+> No answer needed
+Join Linux Fundamentals Part 3!
+> No answer needed
